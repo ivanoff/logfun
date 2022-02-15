@@ -1,0 +1,13 @@
+{
+  "name": "logfan",
+  "version": "1.0.1",
+  "description": "logfan",
+  "author": "Dimitry Ivanov <2@ivanoff.org.ua> # curl -A cv ivanoff.org.ua",
+  "license": "MIT",
+  "main": "src/index.js",
+  "keywords": [
+    "logfan",
+    "log",
+    "console.log"
+  ]
+}
