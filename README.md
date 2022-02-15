@@ -1,25 +1,14 @@
 # logfun
 
-logfun
+```
+require('logfun').prefix;
+console.log('echo'); // prefix echo
+```
 
 ## Instalation
 
 ```
 npm i -S logfun
-```
-
-## Usage
-
-```
-require('logfun').prefix;
-
-console.log('echo');
-```
-
-#### output
-
-```
-prefix echo
 ```
 
 ## Example
